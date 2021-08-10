@@ -1,30 +1,48 @@
 package array;
 
+import java.util.Arrays;
+
+/**
+ * This program Removes the Duplicates from Sorted Array
+ */
 public class RemoveDuplicatesFromArray2 {
+
+
     public static void main(String[]args){
 
-        int[] nums = {1,1,1,2,2,3,2,4,4};
+        int[] nums = {-100,1,1,1,2,2,3,2,4,4};
 
-        int[] expectedNums= removeDuplicates(nums);
+        int[] expectedNums = nums;
+        int k= removeDuplicates(nums);
 
-        System.out.println(expectedNums);
+        assert k == expectedNums.length;
+
+        for(int i =0; i<k;i++){
+            assert nums[i] == expectedNums[i];
+        }
+        System.out.println(k + ","+ " nums" +Arrays.toString(expectedNums));
     }
 
-    public static int[] removeDuplicates(int[] nums){
+    public static int removeDuplicates(int[] nums){
 
         int l = nums.length;
+        int k =l;
+
 
         for(int i = 0;i<l;i++){
-            if(nums[i]!=0){
+            if(nums[i]!='-'){
                 for(int j =i+1;j<l;j++){
                     if(nums[i]==nums[j])
-                    { nums[j]=0;}
+                    { nums[j]='-';
+                    k=k-1;
+                    }
                 }
-            }else {continue;}
+            }
+
         }
 
 
-
-        return nums;
+       Arrays.sort(nums);
+        return k;
     }
 }
