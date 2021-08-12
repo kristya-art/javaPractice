@@ -1,4 +1,4 @@
-package array;
+package array.removeDuplicatesFromSortedArray;
 //not jet finish
 import java.util.stream.IntStream;
 

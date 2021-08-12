@@ -1,4 +1,4 @@
-package array;
+package array.removeDuplicatesFromSortedArray;
 
 import java.util.Arrays;
 
@@ -26,14 +26,14 @@ public class RemoveDuplicatesFromArray2 {
     public static int removeDuplicates(int[] nums){
 
         int l = nums.length;
+        if(l==0){return 0;}
         int k =l;
 
-
         for(int i = 0;i<l;i++){
-            if(nums[i]!='-'){
+            if(nums[i]!='_'){
                 for(int j =i+1;j<l;j++){
                     if(nums[i]==nums[j])
-                    { nums[j]='-';
+                    { nums[j]='_';
                     k=k-1;
                     }
                 }
@@ -41,8 +41,7 @@ public class RemoveDuplicatesFromArray2 {
 
         }
 
-
-       Arrays.sort(nums);
+        Arrays.sort(nums);
         return k;
     }
 }
