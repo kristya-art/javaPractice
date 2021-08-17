@@ -1,4 +1,4 @@
-package array.removeDuplicatesFromSortedArray;
+package j.removeDuplicatesFromSortedArray;
 
 import java.util.Arrays;
 
