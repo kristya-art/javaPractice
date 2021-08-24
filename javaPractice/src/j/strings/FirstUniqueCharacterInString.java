@@ -6,7 +6,7 @@ package j.strings;
  */
 public class FirstUniqueCharacterInString {
     public static void main(String[]args){
-
+        long startTime = System.nanoTime();
       System.out.println(firstUniqChar("aadadaad")+ " expected = -1");
       System.out.println(firstUniqChar("llkom") + " expected = 2");
       System.out.println(firstUniqChar("jemes")+ " expected= 0");
@@ -14,6 +14,10 @@ public class FirstUniqueCharacterInString {
       System.out.println(firstUniqChar("jjk")+ " expected = 2");
       System.out.println(firstUniqChar("lola")+" expected = 3");
 
+
+
+       long stopTime = System.nanoTime();
+       System.out.println(stopTime - startTime);
     }
 
     public static int firstUniqChar(String m){

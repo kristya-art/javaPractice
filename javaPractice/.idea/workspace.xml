@@ -2,23 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e9269ef-2d7c-4a7d-b1ac-81144a5d5468" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/j/bestProfit/BestProfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j/bestProfit/BestProfitFor1Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j/strings/FirstUniqueCharacterInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j/strings/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j/strings/IsAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j/strings/IsAnagram2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/FrequencySort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/array/Help.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/array/RemoveDuplicatesFromArray2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/array/RemoveDuplicatesFromArray3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/array/RemoveDuplicatesFromArrayJava8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/array/RemoveDuplicatesFromArrayLeetCodeSolution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/arrayJavaScript/RemoveNumberFromArray.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/removeDuplicatesFromSortedArray/Help.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/removeDuplicatesFromSortedArray/RemoveDuplicatesFromArray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j/removeDuplicatesFromSortedArray/RemoveDuplicatesFromArray2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/removeDuplicatesFromSortedArray/RemoveDuplicatesFromArray3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j/removeDuplicatesFromSortedArray/RemoveDuplicatesFromArray3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/removeDuplicatesFromSortedArray/RemoveDuplicatesFromArrayJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j/removeDuplicatesFromSortedArray/RemoveDuplicatesFromArrayJava8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/removeDuplicatesFromSortedArray/RemoveDuplicatesFromArrayLeetCodeSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j/removeDuplicatesFromSortedArray/RemoveDuplicatesFromArrayLeetCodeSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrayJavaScript/RemoveNumberFromArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/javascript/arrayJavaScript/RemoveNumberFromArray.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/j/strings/FirstUniqueCharacterInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/j/strings/FirstUniqueCharacterInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j/strings/FirstUniqueCharacterInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j/strings/FirstUniqueCharacterInString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,28 +19,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/j/strings/ReverseString.java">
+        <entry file="file://$PROJECT_DIR$/src/j/strings/FirstUniqueCharacterInString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+            <state relative-caret-position="442">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/j/removeDuplicatesFromSortedArray/RemoveDuplicatesFromArray3.java">
+        <entry file="file://$PROJECT_DIR$/src/j/strings/IsAnagram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/j/strings/FirstUniqueCharacterInString.java">
+        <entry file="file://$PROJECT_DIR$/src/j/strings/IsAnagram2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="920">
-              <caret line="59" column="9" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="59" selection-end-column="9" />
+            <state relative-caret-position="51">
+              <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -96,12 +85,15 @@
         <option value="$PROJECT_DIR$/src/j/bestProfit/BestProfitFor1Transaction.java" />
         <option value="$PROJECT_DIR$/src/j/bestProfit/BestProfit.java" />
         <option value="$PROJECT_DIR$/src/j/strings/ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/medium/FrequencySort.java" />
         <option value="$PROJECT_DIR$/src/j/strings/FirstUniqueCharacterInString.java" />
+        <option value="$PROJECT_DIR$/src/j/strings/IsAnagram.java" />
+        <option value="$PROJECT_DIR$/src/j/strings/IsAnagram2.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1270" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
     <option name="width" value="1302" />
     <option name="height" value="1532" />
   </component>
@@ -111,6 +103,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,18 +129,23 @@
               <item name="j" type="462c0819:PsiDirectoryNode" />
               <item name="strings" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1628975386595" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629831157739" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -166,33 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FirstUniqueCharacterInString">
-    <configuration name="BestProfit (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j.bestProfit.BestProfit" />
-      <module name="javaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="j.bestProfit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BestProfitFor1Transaction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j.bestProfit.BestProfitFor1Transaction" />
-      <module name="javaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="j.bestProfit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.IsAnagram2">
     <configuration name="FirstUniqueCharacterInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="j.strings.FirstUniqueCharacterInString" />
       <module name="javaPractice" />
@@ -206,12 +178,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesFromArray3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java.removeDuplicatesFromSortedArray.RemoveDuplicatesFromArray3" />
+    <configuration name="FrequencySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.FrequencySort" />
       <module name="javaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java.removeDuplicatesFromSortedArray.*" />
+          <option name="PATTERN" value="medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j.strings.IsAnagram" />
+      <module name="javaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j.strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsAnagram2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j.strings.IsAnagram2" />
+      <module name="javaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsAnagram2" />
+        <item itemvalue="Application.IsAnagram" />
         <item itemvalue="Application.FirstUniqueCharacterInString" />
+        <item itemvalue="Application.FrequencySort" />
         <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.BestProfit (2)" />
-        <item itemvalue="Application.BestProfitFor1Transaction" />
-        <item itemvalue="Application.RemoveDuplicatesFromArray3" />
       </list>
     </recent_temporary>
   </component>
@@ -271,17 +269,22 @@
       <workItem from="1628780330413" duration="388000" />
       <workItem from="1628831073878" duration="4439000" />
       <workItem from="1628953924321" duration="11772000" />
-      <workItem from="1629200360998" duration="3146000" />
+      <workItem from="1629200360998" duration="12215000" />
+      <workItem from="1629272643062" duration="367000" />
+      <workItem from="1629485749623" duration="649000" />
+      <workItem from="1629693323755" duration="2143000" />
+      <workItem from="1629809796567" duration="2892000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85529000" />
+    <option name="totallyTimeSpent" value="100649000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="635" y="0" width="651" height="766" extended-state="0" />
+    <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4527027" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23257698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -290,8 +293,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32970452" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3663522" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.30015552" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.0466563" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2488336" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -418,13 +421,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/j/strings/ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/j/removeDuplicatesFromSortedArray/RemoveDuplicatesFromArray3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
@@ -432,10 +428,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/j/strings/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/FrequencySort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/j/strings/FirstUniqueCharacterInString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="59" column="9" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="59" selection-end-column="9" />
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/j/strings/IsAnagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/j/strings/IsAnagram2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
         </state>
       </provider>
     </entry>
