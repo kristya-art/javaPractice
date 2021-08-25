@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e9269ef-2d7c-4a7d-b1ac-81144a5d5468" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/j/strings/IsAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/j/strings/IsAnagram2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/FrequencySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/j/arrays/TwoSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/j/strings/FirstUniqueCharacterInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/j/strings/FirstUniqueCharacterInString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j/strings/FirstUniqueCharacterInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j/strings/FirstUniqueCharacterInString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,30 +13,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/j/strings/FirstUniqueCharacterInString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/j/strings/IsAnagram.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/j/arrays/TwoSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="35" column="22" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="35" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/j/removeDuplicatesFromSortedArray/RemoveDuplicatesFromArray3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/j/strings/IsAnagram2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+            <state relative-caret-position="-24">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -89,12 +85,13 @@
         <option value="$PROJECT_DIR$/src/j/strings/FirstUniqueCharacterInString.java" />
         <option value="$PROJECT_DIR$/src/j/strings/IsAnagram.java" />
         <option value="$PROJECT_DIR$/src/j/strings/IsAnagram2.java" />
+        <option value="$PROJECT_DIR$/src/j/arrays/TwoSum.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-10" />
-    <option name="width" value="1302" />
+    <option name="x" value="1144" />
+    <option name="width" value="1428" />
     <option name="height" value="1532" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -127,13 +124,14 @@
               <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="j" type="462c0819:PsiDirectoryNode" />
-              <item name="strings" type="462c0819:PsiDirectoryNode" />
+              <item name="removeDuplicatesFromSortedArray" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
+              <item name="j" type="462c0819:PsiDirectoryNode" />
+              <item name="strings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,7 +143,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629831157739" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629880250366" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -164,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IsAnagram2">
+  <component name="RunManager" selected="Application.TwoSum">
     <configuration name="FirstUniqueCharacterInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="j.strings.FirstUniqueCharacterInString" />
       <module name="javaPractice" />
@@ -217,12 +215,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j.strings.ReverseString" />
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j.arrays.TwoSum" />
       <module name="javaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="j.strings.*" />
+          <option name="PATTERN" value="j.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.IsAnagram2" />
         <item itemvalue="Application.IsAnagram" />
         <item itemvalue="Application.FirstUniqueCharacterInString" />
         <item itemvalue="Application.FrequencySort" />
-        <item itemvalue="Application.ReverseString" />
       </list>
     </recent_temporary>
   </component>
@@ -273,18 +271,19 @@
       <workItem from="1629272643062" duration="367000" />
       <workItem from="1629485749623" duration="649000" />
       <workItem from="1629693323755" duration="2143000" />
-      <workItem from="1629809796567" duration="2892000" />
+      <workItem from="1629809796567" duration="3571000" />
+      <workItem from="1629878598367" duration="1860000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100649000" />
+    <option name="totallyTimeSpent" value="103188000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
+    <frame x="-6" y="-6" width="1293" height="773" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23257698" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22204214" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -293,7 +292,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32970452" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.0466563" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21150856" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2488336" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -319,6 +318,24 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/j/arrays/TwoSum.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/j/arrays/TwoSum.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/fibonacci/FibonacciTestForRemembering.java" />
@@ -421,13 +438,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/j/removeDuplicatesFromSortedArray/RemoveDuplicatesFromArray3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/j/strings/ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="531">
@@ -442,13 +452,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/j/strings/FirstUniqueCharacterInString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/j/strings/IsAnagram.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -456,10 +459,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/j/strings/FirstUniqueCharacterInString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/j/strings/IsAnagram2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+        <state relative-caret-position="-24">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/j/removeDuplicatesFromSortedArray/RemoveDuplicatesFromArray3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/j/arrays/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="35" column="22" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="35" selection-end-column="22" />
         </state>
       </provider>
     </entry>
