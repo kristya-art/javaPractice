@@ -1,6 +1,5 @@
 package medium;
 
-import java.lang.reflect.Array;
 
 /**
  * Given a string s, return the longest palindromic substring in s

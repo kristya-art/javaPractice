@@ -2,47 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e9269ef-2d7c-4a7d-b1ac-81144a5d5468" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/medium/LongestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/LongestPalindrome2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hard/MedianOfTwoArrays3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hard/MedianOfTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hard/MedianOfTwoSortedArrays2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/META-INF/javaPractice.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/medium/LongestPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/medium/LongestPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/medium/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/LongestPalindrome.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/LongestPalindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/medium/LongestPalindrome2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="45" column="80" selection-start-line="45" selection-start-column="80" selection-end-line="45" selection-end-column="80" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/j/strings/IsAnagram2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,6 +31,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../Program Files/Java/jdk1.8.0_192/src.zip!/java/lang/ArrayIndexOutOfBoundsException.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -97,17 +77,22 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="1302" />
     <option name="height" value="1532" />
   </component>
+  <component name="ProjectId" id="1y5Ji6L5x5PGYU6V1qEaFmeOXMt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -116,73 +101,35 @@
               <item name="javaPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="javaPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="j" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="j" type="462c0819:PsiDirectoryNode" />
-              <item name="strings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1631279288523" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1631279676527" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
   </component>
-  <component name="RunManager" selected="Application.LongestPalindrome2">
-    <configuration name="LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.LongestPalindrome" />
-      <module name="javaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MedianOfTwoSortedArrays2">
     <configuration name="LongestPalindrome2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="medium.LongestPalindrome2" />
       <module name="javaPractice" />
@@ -196,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfSquareNumber3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.SumOfSquareNumber3" />
+    <configuration name="MedianOfTwoArrays3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hard.MedianOfTwoArrays3" />
       <module name="javaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="medium.*" />
+          <option name="PATTERN" value="hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfSquareNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.SumOfSquareNumbers" />
+    <configuration name="MedianOfTwoSortedArrays2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hard.MedianOfTwoSortedArrays2" />
       <module name="javaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="medium.*" />
+          <option name="PATTERN" value="hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,16 +182,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j.arrays.TwoSum" />
+      <module name="javaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LongestPalindrome2" />
-        <item itemvalue="Application.LongestPalindrome" />
-        <item itemvalue="Application.SumOfSquareNumber3" />
+        <item itemvalue="Application.MedianOfTwoSortedArrays2" />
+        <item itemvalue="Application.MedianOfTwoArrays3" />
+        <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.SumOfSquareNumbers2" />
-        <item itemvalue="Application.SumOfSquareNumbers" />
+        <item itemvalue="Application.LongestPalindrome2" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -284,18 +245,23 @@
       <workItem from="1630833869028" duration="74000" />
       <workItem from="1631104637296" duration="5066000" />
       <workItem from="1631175756252" duration="3363000" />
-      <workItem from="1631266418702" duration="8946000" />
+      <workItem from="1631266418702" duration="9318000" />
+      <workItem from="1631299275931" duration="624000" />
+      <workItem from="1631535656711" duration="5867000" />
+      <workItem from="1631560067586" duration="1287000" />
+      <workItem from="1631561398678" duration="148000" />
+      <workItem from="1631561589149" duration="1978000" />
+      <workItem from="1631564366837" duration="4812000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128529000" />
+    <option name="totallyTimeSpent" value="129525000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1293" height="773" extended-state="7" />
-    <editor active="true" />
+    <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2771475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2771475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -304,7 +270,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32970452" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27371696" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27371696" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2488336" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -329,49 +295,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/medium/SumOfSquareNumber3.java</url>
-          <line>34</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/medium/SumOfSquareNumber3.java</url>
-          <line>41</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/medium/LongestPalindrome.java</url>
-          <line>53</line>
-          <properties />
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/medium/LongestPalindrome2.java</url>
-          <line>24</line>
-          <properties />
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/medium/LongestPalindrome2.java</url>
-          <line>45</line>
-          <properties />
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/medium/LongestPalindrome2.java</url>
-          <line>56</line>
-          <properties />
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <option name="version" value="3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/fibonacci/FibonacciTestForRemembering.java" />
@@ -390,7 +314,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/array/RemoveDuplicatesFromArray.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/lang/NumberFormatException.java">
+    <entry file="jar://$PROJECT_DIR$/../../../Program Files/Java/jdk1.8.0_192/src.zip!/java/lang/NumberFormatException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="64" column="74" lean-forward="true" selection-start-line="64" selection-start-column="60" selection-end-line="64" selection-end-column="74" />
@@ -446,7 +370,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_192/src.zip!/java/lang/ClassLoader.java">
+    <entry file="jar://$PROJECT_DIR$/../../../Program Files/Java/jdk1.8.0_192/src.zip!/java/lang/ClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="508">
           <caret line="661" selection-start-line="661" selection-end-line="661" />
@@ -537,17 +461,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/LongestPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/j/strings/IsAnagram2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/LongestPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
